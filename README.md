@@ -2,13 +2,11 @@
 All the codes used in my articles for Linux Handbook will be found here. Please find the appropriate branch
 # Machine Learning Articles
 
-This repository contains the code and explanation for various machine learning articles that I have written. The articles cover topics such as:
+This repository contains the code and explanation for various machine learning articles that I have written for Linux handbook. The articles cover topics such as:
 
 - How to Automate Hyperparameter Tuning and Experiment Tracking for Cloud-Based Training
-- How to Build a Sentiment Analysis Model using BERT and PyTorch
-- How to Generate Text Summaries using Transformers and Hugging Face
-- How to Create a Chatbot using Rasa and Python
-- How to Perform Image Segmentation using U-Net and TensorFlow
+
+- Will be updated with time...
 
 ## Requirements
 
