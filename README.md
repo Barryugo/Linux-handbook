@@ -8,7 +8,7 @@ To run this tutorial, you need to have:
 - An Azure ML workspace
 - An Azure ML compute cluster
 - Azure ML SDK installed on your local machine or notebook environment
-- TensorFlow and mlflow installed on your local machine or notebook environment
+- TensorFlow, mlflow and other modules used here should be installed on your local machine or notebook environment
 
 ## Instructions
 
